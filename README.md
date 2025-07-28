@@ -2,4 +2,4 @@
 
 - 👋 Hi, I’m @LeoZWT
 - 👀 I’m interested in Eddy covariance measurement and Machine Learning.
-- 🌱 I’m currently learning in Beijing Forestry University
+- 🌱 I'm currently working at Beijing Truwel.
