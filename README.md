@@ -9,6 +9,16 @@
 <p align="center">
   <img src="assets/ems-animation.svg" alt="Eddy Covariance - Machine Learning - Software Development Animation">
 </p>
+
+<!-- 语言统计（anuraghazra/github-readme-stats） -->
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoZWT&layout=donut&langs_count=8&theme=transparent&hide=html,css"
+    alt="Top Langs"
+  >
+</p>
+
+<!-- 提交信息：贪吃蛇效果（工作流会在仓库根目录生成 snake.svg / snake-dark.svg） -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg">
