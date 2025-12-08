@@ -9,16 +9,6 @@
 <p align="center">
   <img src="assets/ems-animation.svg" alt="Eddy Covariance - Machine Learning - Software Development Animation">
 </p>
-
-<!-- 提交信息：贪吃蛇效果（工作流会在仓库根目录生成 snake.svg / snake-dark.svg） -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="snake.svg">
-    <img alt="github contribution snake" src="snake.svg">
-  </picture>
-</p>
-
 <!-- 底部流动色条 -->
 <p align="center">
   <img src="assets/frame-bottom.svg" width="100%" height="16" alt="flow bar bottom">
